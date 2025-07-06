@@ -1,4 +1,4 @@
-﻿# tcp_challenge
+
 # TCP Challenge Solver
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
